@@ -17,6 +17,6 @@ BSc Music and Sound Recording (Tonmeister), University of Surrey. Self-taught in
 
 ### Currently
 
-Applying to MSc Financial Technology / Quantitative Finance programmes. Building toward deep learning and NLP methods for financial and alternative data.
+Applying to MSc Financial Technology programmes. Building toward deep learning and NLP methods for financial and alternative data.
 
 `Python` · `pandas` · `scikit-learn` · `PyWavelets` · `SQL` · `Streamlit`
