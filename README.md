@@ -1,11 +1,5 @@
 # Tianyang (Fred) Zheng
 
-Signal processing → financial time series. Trained in audio engineering, now applying the same tools (Fourier analysis, wavelet denoising, adaptive filtering) to price data and on-chain activity.
-
-BSc Music and Sound Recording (Tonmeister), University of Surrey. Self-taught in quantitative finance since 2025.
-
----
-
 ### Featured work
 
 **[whale-signals](https://github.com/zty05070242/crypto-whale-signals-and-sentiment)** — On-chain event study on 646,442 Ethereum transactions across 3.5 years. Whale sell-signal edge grows from +1.3% at 24h to +12.4% at 6 months, confirmed on genuine out-of-sample 2026 data.
@@ -17,6 +11,4 @@ BSc Music and Sound Recording (Tonmeister), University of Surrey. Self-taught in
 
 ### Currently
 
-Applying to MSc Financial Technology programmes. Building toward deep learning and NLP methods for financial and alternative data.
-
-`Python` · `pandas` · `scikit-learn` · `PyWavelets` · `SQL` · `Streamlit`
+Applying to master's programmes in Financial Technology.
