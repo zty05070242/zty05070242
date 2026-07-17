@@ -1,4 +1,10 @@
-# Tianyang (Fred) Zheng
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Tianyang%20(Fred)%20Zheng&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SoundTech%20%E2%86%92%20FinTech&descAlignY=58&descSize=18&descColor=8b949e)
+
+</div>
+
+---
 
 ### Featured work
 
@@ -12,3 +18,25 @@
 ### Currently
 
 Applying to master's programmes in Financial Technology.
+
+---
+
+### Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyWavelets](https://img.shields.io/badge/PyWavelets-4B8BBE?style=flat&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20(Dune)-FF6B35?style=flat&logo=dune&logoColor=white)
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zty05070242&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zty05070242&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
