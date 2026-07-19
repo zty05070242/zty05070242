@@ -31,3 +31,5 @@ Applying to master's programmes in Financial Technology.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyWavelets](https://img.shields.io/badge/PyWavelets-4B8BBE?style=flat&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL%20(Dune)-FF6B35?style=flat&logo=dune&logoColor=white)
+![Binance API](https://img.shields.io/badge/Binance%20API-F0B90B?style=flat&logo=binance&logoColor=black)
+![Kaggle API](https://img.shields.io/badge/Kaggle%20API-20BEFF?style=flat&logo=kaggle&logoColor=white)
