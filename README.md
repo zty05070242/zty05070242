@@ -33,10 +33,3 @@ Applying to master's programmes in Financial Technology.
 ![SQL](https://img.shields.io/badge/SQL%20(Dune)-FF6B35?style=flat&logo=dune&logoColor=white)
 
 ---
-
-<div align="center">
-
-<img height="160" src="https://streak-stats.demolab.com/?user=zty05070242&theme=github-dark&hide_border=true" />
-<img height="160" src="https://github-profile-trophy.vercel.app/?username=zty05070242&theme=darkhub&no-frame=true&column=4&margin-w=8" />
-
-</div>
