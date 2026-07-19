@@ -36,7 +36,7 @@ Applying to master's programmes in Financial Technology.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zty05070242&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zty05070242&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://streak-stats.demolab.com/?user=zty05070242&theme=github-dark&hide_border=true" />
+<img height="160" src="https://github-profile-trophy.vercel.app/?username=zty05070242&theme=darkhub&no-frame=true&column=4&margin-w=8" />
 
 </div>
