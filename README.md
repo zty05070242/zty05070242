@@ -15,12 +15,6 @@
 
 ---
 
-### Under development
-
-**[live-cross-sectional-trader](https://github.com/zty05070242/live-cross-sectional-trader)** *(in progress)* — Statistical arbitrage / pairs trading framework using a leading indicator.
-
----
-
 ### Currently
 
 Applying to master's programmes in Financial Technology.
