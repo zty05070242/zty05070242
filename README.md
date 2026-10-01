@@ -1,27 +1,39 @@
 <div align="center">
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Tianyang%20(Fred)%20Zheng&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SoundTech%20%E2%86%92%20FinTech&descAlignY=58&descSize=18&descColor=8b949e)
+
 
 </div>
 
+
 ---
 
+
 ### Featured work
+
 
 **[whale-signals](https://github.com/zty05070242/crypto-whale-signals-and-sentiment)** — On-chain event study of 646,442 Ethereum transactions across 3.5 years. Labelled exchange deposits show a +1.33pp downside edge at 24h, stable across $1M–$10M thresholds and strengthening to +3.86pp in the partial-2026 later sample.
 → [Live dashboard](https://crypto-whale-signals-and-sentiment-lkhygb3594bbrogn23qbps.streamlit.app/)
 
-**[wavelet-2b](https://github.com/zty05070242/wavelet-2b)** — DSP-based backtesting framework. Replaced a rolling-window pivot detector in Sperandeo's 2B rule with a causal wavelet denoising pipeline; reduced drawdown in 7 of 10 commodity futures markets, with crude oil improving on Sharpe ratio, drawdown, and profit factor simultaneously.
+
+**[wavelet-2b](https://github.com/zty05070242/wavelet-2b)** — Quantitative research project testing whether causal wavelet denoising can make Sperandeo's 2B rule less sensitive to price noise. Across ten commodity futures, Wavelet-2B traded less in all ten markets and reduced maximum drawdown in nine, with a median reduction of 11.1 percentage points.
+
 
 ---
+
 
 ### Currently
 
+
 Applying to master's programmes in Financial Technology.
+
 
 ---
 
+
 ### Tech
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
