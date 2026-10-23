@@ -68,3 +68,7 @@ Applying to master's programmes in Financial Technology.
 ![yfinance API](https://img.shields.io/badge/Yahoo%20Finance%20API-6001D2?style=flat&logo=yahoo&logoColor=white)
 ![Binance API](https://img.shields.io/badge/Binance%20API-F0B90B?style=flat&logo=binance&logoColor=black)
 ![Kaggle API](https://img.shields.io/badge/Kaggle%20API-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![Etherscan API](https://img.shields.io/badge/Etherscan%20API-21325B?style=flat&logo=etherscan&logoColor=white)
+![FRED / ALFRED API](https://img.shields.io/badge/FRED%20%2F%20ALFRED%20API-0F4C81?style=flat)
+![DefiLlama API](https://img.shields.io/badge/DefiLlama%20API-2172E5?style=flat)
+![SEC EDGAR API](https://img.shields.io/badge/SEC%20EDGAR%20API-213B56?style=flat)
